@@ -30,7 +30,7 @@ UPDATE albums
 SET release_year = 1982
 WHERE id = 1;
 
-SELECT * FROM albums;
+
 
 SELECT * FROM albums
 WHERE release_year >2000;
